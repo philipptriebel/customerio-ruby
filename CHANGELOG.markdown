@@ -1,4 +1,4 @@
-## Customerio 0.5.0 - Mar 28, 2014 ##
+## Customerio 0.5.1 - Mar 28, 2014 ##
 
 * Added flag to send body encoded as JSON, rather than the default form encoding.
 
